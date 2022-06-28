@@ -1,3 +1,3 @@
 # Training Repository
 
-A repository for learning GitHub
+A repository for learning GitHub - this is not my first repository
